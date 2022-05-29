@@ -10,7 +10,7 @@ https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset?select=ratings.cs
 There are two main files: ratings.csv and movies_metadata.csv. The first one contains *100,000* ratings from *700* users on *9,000* movies. The second has descriptions of all these movies: posters, backdrops, budget, revenue, release dates, languages, production countries, and companies.
 
 ***
-## Brief explanation of the algoritm
+## Brief explanation of the algorithm
 The whole idea is to conduct SVD on matrix with rated films and choose principal components to be reduced SVD. After that we can compute cosine similarity between each film vector and based on rated films predict ratings for unseen films.
 ***
 ## Singular Value Decomposition
