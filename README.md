@@ -47,6 +47,7 @@ return top(n) sorted(ratings, reverse=True)
 ```
 ***
 ## Example of the output
+<img width="288" alt="example" src="https://user-images.githubusercontent.com/73395389/170863233-040cc1f0-6db5-4e43-8ff0-0b0b6997c32b.png">
 
 ***
 ## Results
